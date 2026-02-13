@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=red&width=900&size=22&center=true&lines=Eu+sou+do+Brasil;Eu+sou+estudante+de+Licenciatura+em+Computacao;Eu+sou+um+Frontend;Bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=red&width=900&size=22&center=true&lines=Eu+sou+do+Brasil;Eu+sou+estudante+de+Licenciatura+em+Computa%C3%A7%C3%A3o;Eu+sou+um+Frontend;Bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais informações</b>
       </samp>
   </summary>
   
